@@ -1,21 +1,25 @@
-### Hi there, Welcome to My Github Profile 👋
+# Hi there, Welcome to My Github Profile 👋
 
 Hello, my name is Sabrina Putri Aulia! I am an undergraduate informatics student and I love sharing my projects and knowledge here.
 
-## About me
-- 🌱 I’m currently a Fullstack Web Development Student at [Rakamin] (https://www.rakamin.com/) as part of the MSIB program.
+### About me
+- 🔭 I’m currently a Fullstack Web Development Student at Rakamin Academy (https://www.rakamin.com/) as part of the MSIB program.
 - 💡 I'm passionate about UI/UX Design and Front-end Development.
 - 💬 Feel free to ask me if you want to discuss web development, UI/UX, or anything tech-related.
+- 📫 How to reach me: <a href="mailto:sabrinaaulia86@gmail.com">Email me!</a>  </br>
+- 😄 Pronouns: She/Her </br>
 
-## My GitHub Stats
+### My GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabrinaPutriAulia&show_icons=true&theme=dark)](https://github.com/SabrinaPutriAulia)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabrinaPutriAulia&show_icons=true&theme=dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaPutriAulia&layout=compact&show_icons=true&theme=dark)
 
-## Contact
+
+### Lets'Connect
 You can find me on various platforms:
 
-- LinkedIn: Sabrina Putri Aulia (https://www.linkedin.com/in/sabrina-putri-aulia-05ab98221/)
-- Email: sabrinaaulia86@gmail.com(mailto:sabrinaaulia86@gmail.com)
+<a href="https://www.linkedin.com/in/sabrina-putri-aulia-05ab98221/" target="blank"><img src="https://img.shields.io/badge/sabrina_putri_aulia-30302f?style=flat&logo=linkedin" /></a>
+
 
 Thanks for visiting my GitHub profile! 😊
 <!--
