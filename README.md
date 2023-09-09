@@ -11,9 +11,9 @@ Hello, my name is Sabrina Putri Aulia! I am an undergraduate informatics student
 
 ### My GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabrinaPutriAulia&show_icons=true&theme=dark)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaPutriAulia&layout=compact&show_icons=true&theme=dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaPutriAulia&layout=compact&show_icons=true&theme=dark) </br> </br>
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabrinaPutriAulia&show_icons=true&theme=dark)
 
 ### Lets'Connect
 You can find me on various platforms:
