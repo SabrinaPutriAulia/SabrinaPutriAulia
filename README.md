@@ -18,7 +18,7 @@ Hello, my name is Sabrina Putri Aulia! I am an undergraduate informatics student
 ### Lets'Connect
 You can find me on various platforms:
 
-<a href="https://www.linkedin.com/in/sabrina-putri-aulia-05ab98221/" target="blank"><img src="https://img.shields.io/badge/sabrina_putri_aulia-30302f?style=flat&logo=linkedin" /></a>
+<a href="https://www.linkedin.com/in/sabrinaputria/" target="blank"><img src="https://img.shields.io/badge/sabrina_putri_aulia-30302f?style=flat&logo=linkedin" /></a>
 
 
 Thanks for visiting my GitHub profile! 😊
